@@ -1,0 +1,19 @@
+{
+    "name": "HotUpdate",
+    "rootNamespace": "",
+    "references": [
+        "UnityGameFramework.Runtime",
+        "Luban.Runtime",
+        "YooAsset",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,8 @@
+[submodule "Config"]
+	path = Config
+	url = https://github.com/SeelesToy/GameBaseFramework-Config.git
+	branch = main
+[submodule "CDNFile"]
+	path = CDNFile
+	url = https://github.com/SeelesToy/GameBaseFramework-CDNFile.git
+	branch = main

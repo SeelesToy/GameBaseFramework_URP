@@ -1,0 +1,133 @@
+{
+  "generator": "built-in image_gen",
+  "style": "Original clean anime science-fiction card-game UI matching the reference's general design language: dark desaturated blue glass panels, vivid cyan #12C8ED, pale white #E8F8FF rims, yellow #FFE45C primary action, restrained clean chamfered corners and slight diagonal accents. Flat orthographic front-facing 2D UI sprite, crisp edges, no perspective, no text, no numbers, no watermark, no characters, no franchise logos. True transparent exterior, not a checkerboard image. One asset only.",
+  "assets": [
+    {
+      "id": "panel",
+      "path": "Common/Panels/panel_glass.png",
+      "label": "通用玻璃面板",
+      "source": "C:\\Users\\taohaolang\\.codex\\generated_images\\01a19b89-1b62-7f81-869b-31af07310222\\exec-b6a121e6-5c2c-4be2-87f0-d8efc5171eed.png",
+      "prompt": "Use case: ui-mockup. Asset type: ONE production-ready transparent PNG sprite for a Unity turn-based card game: reusable large information panel. Style reference: clean anime science-fiction mobile game UI, dark desaturated translucent blue glass panels, bright cyan accents, crisp slightly chamfered corners, slim pale blue outer rim; flat front-facing graphic, not a physical 3D object. Palette navy #173D62, blue #28668C, cyan #12C8ED, white #E8F8FF. Composition: landscape canvas 1536x1024, ONE centered rectangular panel occupying 90 percent width and 80 percent height, small cut corners, a narrow cyan header stripe inside top edge, subtle fine inner border, spacious UNIFORM dark blue translucent center suitable for text; only tiny understated corner accents. Real alpha transparency outside the silhouette and semi-transparent blue interior. Straight axis aligned edges with no perspective, NO diagonal panel tilt. No text, letters, numbers, icons, characters, logos, backdrop, grid, checkerboard, watermark, outer shadows or excessive glow. Clean practical reusable nine-slice UI panel. This is an original UI element inspired only by the general visual language of the user's references, not a copied screen."
+    },
+    {
+      "id": "button_cyan",
+      "path": "Common/Buttons/btn_cyan.png",
+      "prompt": "Use case: ui-mockup. Asset type: isolated production-ready PNG sprite for Unity. Original clean anime science-fiction card-game UI matching the reference's general design language: dark desaturated blue glass panels, vivid cyan #12C8ED, pale white #E8F8FF rims, yellow #FFE45C primary action, restrained clean chamfered corners and slight diagonal accents. Flat orthographic front-facing 2D UI sprite, crisp edges, no perspective, no text, no numbers, no watermark, no characters, no franchise logos. True transparent exterior, not a checkerboard image. One asset only. One reusable horizontal cyan action button background, aspect ratio 4:1, on a wide landscape canvas. Bright cyan fill with a restrained top highlight, thin pale blue rim, tiny 45 degree clipped corners, very subtle navy lower edge. Empty flat center for separately rendered text. Button fills almost the whole canvas with just 3 percent transparent padding; no symbol or label. Matched top and bottom edges, no 3D extrusion.",
+      "source": "C:\\Users\\taohaolang\\.codex\\generated_images\\01a19b89-1b62-7f81-869b-31af07310222\\exec-0a2f3ba8-58b6-478a-982c-dff4e9ea573b.png",
+      "label": "青色按钮"
+    },
+    {
+      "id": "button_yellow",
+      "path": "Common/Buttons/btn_yellow.png",
+      "prompt": "Use case: ui-mockup. Asset type: isolated production-ready PNG sprite for Unity. Original clean anime science-fiction card-game UI matching the reference's general design language: dark desaturated blue glass panels, vivid cyan #12C8ED, pale white #E8F8FF rims, yellow #FFE45C primary action, restrained clean chamfered corners and slight diagonal accents. Flat orthographic front-facing 2D UI sprite, crisp edges, no perspective, no text, no numbers, no watermark, no characters, no franchise logos. True transparent exterior, not a checkerboard image. One asset only. One reusable horizontal yellow primary-action button background, aspect ratio 4:1, wide landscape canvas. Warm luminous yellow #FFE45C fill, restrained white upper edge and pale yellow rim, small clipped corners, very subtle navy lower edge. Empty flat center for separately rendered text. Button fills almost the whole canvas with just 3 percent transparent padding; no symbol or label. Clean and simple like a bright anime game navigation button.",
+      "source": "C:\\Users\\taohaolang\\.codex\\generated_images\\01a19b89-1b62-7f81-869b-31af07310222\\exec-7ced1750-6c9e-44f0-b42b-11c0df17d318.png",
+      "label": "黄色主按钮"
+    },
+    {
+      "id": "card_frame",
+      "path": "Collection/Frames/frame_card_rare.png",
+      "prompt": "Use case: ui-mockup. Asset type: isolated production-ready PNG sprite for Unity. Original clean anime science-fiction card-game UI matching the reference's general design language: dark desaturated blue glass panels, vivid cyan #12C8ED, pale white #E8F8FF rims, yellow #FFE45C primary action, restrained clean chamfered corners and slight diagonal accents. Flat orthographic front-facing 2D UI sprite, crisp edges, no perspective, no text, no numbers, no watermark, no characters, no franchise logos. True transparent exterior, not a checkerboard image. One asset only. One empty portrait trading-card UI frame, canvas portrait 1024x1536. Slim pale white outer border, navy blue internal rim with cyan edge highlights and small violet corner accent denoting rare quality. A large completely transparent portrait window covers upper 70 percent; a blue glass text plate covers lower 22 percent, left completely blank. Small empty hexagonal cyan cost socket integrated in upper left corner, a narrow blank rarity strip below portrait. Clean readable collectible card frame, no character, no illustration, no stars, no words, no digits. Frame occupies 92 percent of canvas. Transparency outside AND inside illustration window.",
+      "source": "C:\\Users\\taohaolang\\.codex\\generated_images\\01a19b89-1b62-7f81-869b-31af07310222\\exec-f0261705-7291-487a-83a8-bd3877c242f7.png",
+      "label": "稀有卡牌框"
+    },
+    {
+      "id": "tab",
+      "path": "Common/Buttons/tab_selected.png",
+      "label": "选中标签",
+      "prompt": "Use case: ui-mockup. Asset type: ONE production-ready Unity PNG UI sprite. Original clean anime science-fiction card-game UI matching the reference's general design language: dark desaturated blue glass panels, vivid cyan #12C8ED, pale white #E8F8FF rims, yellow #FFE45C primary action, restrained clean chamfered corners and slight diagonal accents. Flat orthographic front-facing 2D UI sprite, crisp edges, no perspective, no text, no numbers, no watermark, no characters, no franchise logos. True transparent exterior, not a checkerboard image. One asset only. ONE wide horizontal navigation tab, about 3:1 proportions. Cyan flat fill, simple white rim and a narrow yellow underline at the bottom, slightly slanted outer side edges, only 2 percent transparent padding around silhouette. Empty center for runtime label. No icon. Wide canvas, very clean minimal shape like the bottom navigation tabs of anime mobile games.",
+      "source": "C:\\Users\\taohaolang\\.codex\\generated_images\\01a19b89-1b62-7f81-869b-31af07310222\\exec-52837ad7-b955-4788-a447-0f9f397d8723.png"
+    },
+    {
+      "id": "round_button",
+      "path": "Common/Buttons/btn_round.png",
+      "label": "圆形功能按钮",
+      "prompt": "Use case: ui-mockup. Asset type: ONE production-ready Unity PNG UI sprite. Original clean anime science-fiction card-game UI matching the reference's general design language: dark desaturated blue glass panels, vivid cyan #12C8ED, pale white #E8F8FF rims, yellow #FFE45C primary action, restrained clean chamfered corners and slight diagonal accents. Flat orthographic front-facing 2D UI sprite, crisp edges, no perspective, no text, no numbers, no watermark, no characters, no franchise logos. True transparent exterior, not a checkerboard image. One asset only. ONE circular cyan utility button background, centered on square canvas. Cyan circular disk, slim pale white ring, dark blue thin outer rim. Clear completely blank middle so an icon can be overlaid at runtime. No icon, no central decoration. Occupies 90 percent canvas, minimal restrained highlight, flat UI not a sphere.",
+      "source": "C:\\Users\\taohaolang\\.codex\\generated_images\\01a19b89-1b62-7f81-869b-31af07310222\\exec-f3290702-9e0c-4b42-a56d-a45cdc2c04a2.png"
+    },
+    {
+      "id": "status_panel",
+      "path": "Common/Panels/panel_status.png",
+      "label": "横向信息条",
+      "prompt": "Use case: ui-mockup. Asset type: ONE production-ready Unity PNG UI sprite. Original clean anime science-fiction card-game UI matching the reference's general design language: dark desaturated blue glass panels, vivid cyan #12C8ED, pale white #E8F8FF rims, yellow #FFE45C primary action, restrained clean chamfered corners and slight diagonal accents. Flat orthographic front-facing 2D UI sprite, crisp edges, no perspective, no text, no numbers, no watermark, no characters, no franchise logos. True transparent exterior, not a checkerboard image. One asset only. ONE slim horizontal translucent navy blue information strip, 6:1 silhouette proportions on a wide landscape canvas. Small clipped corners, subtle pale blue top edge, a thin cyan stripe at left edge. Empty uniform blue center, no subdivisions, no icons or bars. Occupy nearly whole canvas. Restrained translucent fill, clean lines, no outer halo.",
+      "source": "C:\\Users\\taohaolang\\.codex\\generated_images\\01a19b89-1b62-7f81-869b-31af07310222\\exec-1a5322c8-5f7e-4210-822a-8bf02d74e314.png"
+    },
+    {
+      "id": "slot",
+      "path": "Collection/Frames/frame_item.png",
+      "label": "物品槽边框",
+      "prompt": "Use case: ui-mockup. Asset type: ONE production-ready Unity PNG UI sprite. Original clean anime science-fiction card-game UI matching the reference's general design language: dark desaturated blue glass panels, vivid cyan #12C8ED, pale white #E8F8FF rims, yellow #FFE45C primary action, restrained clean chamfered corners and slight diagonal accents. Flat orthographic front-facing 2D UI sprite, crisp edges, no perspective, no text, no numbers, no watermark, no characters, no franchise logos. True transparent exterior, not a checkerboard image. One asset only. ONE square inventory item slot border, centered, 90 percent square canvas. White outer border, navy secondary border, a narrow violet top accent and cyan lower accent. Large COMPLETELY TRANSPARENT center for a separately rendered item icon, NO colored center fill, no object, no symbol, no text. Small chamfered corners, clean simple anime inventory style, no glow outside the silhouette.",
+      "source": "C:\\Users\\taohaolang\\.codex\\generated_images\\01a19b89-1b62-7f81-869b-31af07310222\\exec-d0156d21-3273-4982-82d5-747c2698834f.png"
+    },
+    {
+      "id": "progress_track",
+      "path": "Common/Bars/bar_track.png",
+      "label": "进度条底槽",
+      "prompt": "Use case: ui-mockup. Asset type: ONE production-ready Unity PNG UI sprite. Original clean anime science-fiction card-game UI matching the reference's general design language: dark desaturated blue glass panels, vivid cyan #12C8ED, pale white #E8F8FF rims, yellow #FFE45C primary action, restrained clean chamfered corners and slight diagonal accents. Flat orthographic front-facing 2D UI sprite, crisp edges, no perspective, no text, no numbers, no watermark, no characters, no franchise logos. True transparent exterior, not a checkerboard image. One asset only. ONE empty horizontal progress bar track, extremely wide 12:1 ratio silhouette on wide canvas. Dark navy flat trough, very thin pale blue outline, modest rounded end caps, clean flat empty interior. The trough must be empty, no colored progress fill. No text or symbols. Occupy full canvas width with minimal padding.",
+      "source": "C:\\Users\\taohaolang\\.codex\\generated_images\\01a19b89-1b62-7f81-869b-31af07310222\\exec-dbc95c56-492a-455c-a132-1442917cac2f.png"
+    },
+    {
+      "id": "progress_fill",
+      "path": "Common/Bars/bar_fill_cyan.png",
+      "label": "青色进度填充",
+      "prompt": "Use case: ui-mockup. Asset type: ONE production-ready Unity PNG UI sprite. Original clean anime science-fiction card-game UI matching the reference's general design language: dark desaturated blue glass panels, vivid cyan #12C8ED, pale white #E8F8FF rims, yellow #FFE45C primary action, restrained clean chamfered corners and slight diagonal accents. Flat orthographic front-facing 2D UI sprite, crisp edges, no perspective, no text, no numbers, no watermark, no characters, no franchise logos. True transparent exterior, not a checkerboard image. One asset only. ONE solid cyan horizontal progress bar fill sprite, extremely wide 12:1 ratio silhouette on wide canvas. Bright clean turquoise strip with gently rounded end caps, subtle lighter top edge, homogeneous cyan center with no border, no trough and no segmented marks. No text or symbols. Minimal padding. It should be usable inside another progress bar track.",
+      "source": "C:\\Users\\taohaolang\\.codex\\generated_images\\01a19b89-1b62-7f81-869b-31af07310222\\exec-bb4fc6fd-f670-466d-b1dc-a2d17ddba18f.png"
+    },
+    {
+      "id": "coin",
+      "path": "Common/Icons/icon_coin.png",
+      "label": "金币",
+      "prompt": "Use case: ui-mockup. Asset type: ONE production-ready Unity PNG UI sprite. Original clean anime science-fiction card-game UI matching the reference's general design language: dark desaturated blue glass panels, vivid cyan #12C8ED, pale white #E8F8FF rims, yellow #FFE45C primary action, restrained clean chamfered corners and slight diagonal accents. Flat orthographic front-facing 2D UI sprite, crisp edges, no perspective, no text, no numbers, no watermark, no characters, no franchise logos. True transparent exterior, not a checkerboard image. One asset only. ONE isolated gold currency icon, a simple hexagonal gold token with a bright yellow front face and thin warm amber beveled rim, only one coin, slight stylized depth but clear flat front-facing silhouette. No engraved letters, currency symbols, or numbers. Centered square canvas, fills 78 percent. Bold readable at 32 pixels, not realistic, no sparkle clutter.",
+      "source": "C:\\Users\\taohaolang\\.codex\\generated_images\\01a19b89-1b62-7f81-869b-31af07310222\\exec-0cfee78e-83c1-460d-a340-a8da3468542f.png"
+    },
+    {
+      "id": "gem",
+      "path": "Common/Icons/icon_gem.png",
+      "label": "钻石",
+      "prompt": "Use case: ui-mockup. Asset type: ONE production-ready Unity PNG UI sprite. Original clean anime science-fiction card-game UI matching the reference's general design language: dark desaturated blue glass panels, vivid cyan #12C8ED, pale white #E8F8FF rims, yellow #FFE45C primary action, restrained clean chamfered corners and slight diagonal accents. Flat orthographic front-facing 2D UI sprite, crisp edges, no perspective, no text, no numbers, no watermark, no characters, no franchise logos. True transparent exterior, not a checkerboard image. One asset only. ONE isolated bright cyan faceted crystal gem icon, elongated six-sided diamond with pointed top and bottom, a few flat navy and white facets. Centered square canvas, fills 78 percent. Crisp polished anime mobile-game currency symbol, readable at 32 pixels, no frame, no surrounding sparkles.",
+      "source": "C:\\Users\\taohaolang\\.codex\\generated_images\\01a19b89-1b62-7f81-869b-31af07310222\\exec-3668505f-a9b8-41b5-87e6-c8c2d268adcc.png"
+    },
+    {
+      "id": "energy",
+      "path": "Battle/Icons/icon_energy.png",
+      "label": "行动能量",
+      "prompt": "Use case: ui-mockup. Asset type: ONE production-ready Unity PNG UI sprite. Original clean anime science-fiction card-game UI matching the reference's general design language: dark desaturated blue glass panels, vivid cyan #12C8ED, pale white #E8F8FF rims, yellow #FFE45C primary action, restrained clean chamfered corners and slight diagonal accents. Flat orthographic front-facing 2D UI sprite, crisp edges, no perspective, no text, no numbers, no watermark, no characters, no franchise logos. True transparent exterior, not a checkerboard image. One asset only. ONE isolated clean yellow lightning bolt inside a cyan hexagonal badge, slim white hexagonal rim and navy lower accent. Flat simple pictogram with high contrast, centered square canvas, fills 80 percent, readable at 32 pixels. No digits, no glows, no extra ornaments.",
+      "source": "C:\\Users\\taohaolang\\.codex\\generated_images\\01a19b89-1b62-7f81-869b-31af07310222\\exec-d6123099-a864-46d6-8a14-8763e9b3aab5.png"
+    },
+    {
+      "id": "health",
+      "path": "Battle/Icons/icon_health.png",
+      "label": "生命",
+      "prompt": "Use case: ui-mockup. Asset type: ONE production-ready Unity PNG UI sprite. Original clean anime science-fiction card-game UI matching the reference's general design language: dark desaturated blue glass panels, vivid cyan #12C8ED, pale white #E8F8FF rims, yellow #FFE45C primary action, restrained clean chamfered corners and slight diagonal accents. Flat orthographic front-facing 2D UI sprite, crisp edges, no perspective, no text, no numbers, no watermark, no characters, no franchise logos. True transparent exterior, not a checkerboard image. One asset only. ONE isolated stylized coral-pink heart icon, clean symmetrical heart silhouette, subtle pale pink upper highlight, slim white rim and tiny darker pink lower facet. Centered square canvas, fills 78 percent, readable at 32 pixels. Flat anime game attribute icon. No badge behind it, no pulse line, no text.",
+      "source": "C:\\Users\\taohaolang\\.codex\\generated_images\\01a19b89-1b62-7f81-869b-31af07310222\\exec-4acaea56-01c6-4a0d-ad51-3a1f57e7333e.png"
+    },
+    {
+      "id": "attack",
+      "path": "Battle/Icons/icon_attack.png",
+      "label": "攻击",
+      "prompt": "Use case: ui-mockup. Asset type: ONE production-ready Unity PNG UI sprite. Original clean anime science-fiction card-game UI matching the reference's general design language: dark desaturated blue glass panels, vivid cyan #12C8ED, pale white #E8F8FF rims, yellow #FFE45C primary action, restrained clean chamfered corners and slight diagonal accents. Flat orthographic front-facing 2D UI sprite, crisp edges, no perspective, no text, no numbers, no watermark, no characters, no franchise logos. True transparent exterior, not a checkerboard image. One asset only. ONE isolated attack pictogram: a single short broad white and pale cyan sword angled upward right, cyan guard and navy handle. Bold simple silhouette with few crisp flat facets, centered square canvas, fills 80 percent. Readable at 32 pixels. No crossed second sword, no badge, no text, no decorative sparkles.",
+      "source": "C:\\Users\\taohaolang\\.codex\\generated_images\\01a19b89-1b62-7f81-869b-31af07310222\\exec-fffb23a8-4b37-4761-b4f0-4ff93584d38c.png"
+    },
+    {
+      "id": "shield",
+      "path": "Battle/Icons/icon_shield.png",
+      "label": "防御",
+      "prompt": "Use case: ui-mockup. Asset type: ONE production-ready Unity PNG UI sprite. Original clean anime science-fiction card-game UI matching the reference's general design language: dark desaturated blue glass panels, vivid cyan #12C8ED, pale white #E8F8FF rims, yellow #FFE45C primary action, restrained clean chamfered corners and slight diagonal accents. Flat orthographic front-facing 2D UI sprite, crisp edges, no perspective, no text, no numbers, no watermark, no characters, no franchise logos. True transparent exterior, not a checkerboard image. One asset only. ONE isolated simple cyan shield icon, pointed lower tip, pale white thick rim, blue center with just one minimal white vertical facet. Symmetrical front view, flat clean anime mobile-game stat pictogram, centered square canvas, fills 78 percent, readable at 32 pixels. No crest, no text, no background badge.",
+      "source": "C:\\Users\\taohaolang\\.codex\\generated_images\\01a19b89-1b62-7f81-869b-31af07310222\\exec-a36f4b45-3e94-47c7-8c8b-bd2649d7009c.png"
+    },
+    {
+      "id": "deck",
+      "path": "Battle/Icons/icon_deck.png",
+      "label": "牌库",
+      "prompt": "Use case: ui-mockup. Asset type: ONE production-ready Unity PNG UI sprite. Original clean anime science-fiction card-game UI matching the reference's general design language: dark desaturated blue glass panels, vivid cyan #12C8ED, pale white #E8F8FF rims, yellow #FFE45C primary action, restrained clean chamfered corners and slight diagonal accents. Flat orthographic front-facing 2D UI sprite, crisp edges, no perspective, no text, no numbers, no watermark, no characters, no franchise logos. True transparent exterior, not a checkerboard image. One asset only. ONE isolated deck-of-cards pictogram: three overlapping small portrait cards fanned slightly, clean white outer card borders, dark blue faces, cyan minimal diamond symbol on the foremost card. Very simple bold flat shape readable at 32 pixels, square canvas, centered, fills 80 percent. No text or numbers.",
+      "source": "C:\\Users\\taohaolang\\.codex\\generated_images\\01a19b89-1b62-7f81-869b-31af07310222\\exec-e90f1718-8fe1-4016-a844-8c6195d40999.png"
+    },
+    {
+      "id": "background",
+      "path": "MainMenu/Backgrounds/bg_blue_hall.png",
+      "label": "主菜单背景",
+      "transparent": false,
+      "prompt": "Generate a polished full-bleed landscape 16:9 anime science-fiction game UI background, 1920x1080 or larger. Quiet luminous futuristic white-and-blue observatory lounge with tall glass windows overlooking pale blue sky and distant clouds, smooth clean platforms, subtle cyan light strips and a few translucent architectural screens. Gently defocused, low visual noise, clean large negative space across center and right for overlaid menus; depth mostly at left and edges. Bright cool blue atmosphere with very small warm sunlit accents. No characters, no people, no words, no UI panels or HUD, no logos, no dark vignette, no identifiable franchise structures. Original background consistent with the clean blue anime UI references. This asset must be fully opaque with no transparent margins.",
+      "source": "C:\\Users\\taohaolang\\.codex\\generated_images\\01a19b89-1b62-7f81-869b-31af07310222\\exec-cda7d29a-f13b-4695-bdcc-97aadd5ed285.png"
+    }
+  ]
+}
