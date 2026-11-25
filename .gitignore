@@ -24,3 +24,6 @@
 # 系统文件
 .DS_Store
 Thumbs.db
+
+# Agent相关
+AGENTS.md
